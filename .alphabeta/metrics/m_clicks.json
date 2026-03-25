@@ -1,0 +1,13 @@
+{
+  "id": "m_clicks",
+  "name": "Click Rate",
+  "description": "Proportion of users who clicked the CTA",
+  "type": "count",
+  "normalization": "raw_total",
+  "higherIsBetter": true,
+  "isGuardrail": false,
+  "tags": [
+    "engagement"
+  ],
+  "createdAt": 1774478956660
+}

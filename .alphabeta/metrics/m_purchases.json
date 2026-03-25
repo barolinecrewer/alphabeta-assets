@@ -1,0 +1,13 @@
+{
+  "id": "m_purchases",
+  "name": "Purchase Rate",
+  "description": "Proportion of users who completed a purchase",
+  "type": "binomial",
+  "normalization": "raw_total",
+  "higherIsBetter": true,
+  "isGuardrail": false,
+  "tags": [
+    "conversion"
+  ],
+  "createdAt": 1774478956660
+}

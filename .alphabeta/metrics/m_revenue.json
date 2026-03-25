@@ -1,0 +1,13 @@
+{
+  "id": "m_revenue",
+  "name": "Revenue",
+  "description": "Total revenue per variation (deferred to v2 for proper mean test)",
+  "type": "revenue",
+  "normalization": "raw_total",
+  "higherIsBetter": true,
+  "isGuardrail": false,
+  "tags": [
+    "monetization"
+  ],
+  "createdAt": 1774478956660
+}
