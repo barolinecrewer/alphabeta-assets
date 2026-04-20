@@ -1,0 +1,13 @@
+{
+  "name": "Revenue per User",
+  "description": "",
+  "type": "revenue",
+  "normalization": "raw_total",
+  "higherIsBetter": true,
+  "isGuardrail": true,
+  "conservativeThreshold": 3.807126,
+  "flexibleThreshold": 3.111753,
+  "tags": [],
+  "id": "1_8H9xq4nRPjXlWo2S-0N",
+  "createdAt": 1776704953799
+}
